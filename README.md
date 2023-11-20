@@ -7,7 +7,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | --------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------- |
 | Flutter Vikings 2024  | tba (end of January 2024)                        | tba                                                                                 | tba                                              | Malmö, Sweden / Copenhagen, Denmark                                               |
 | Fluttercon 2024       | July 3rd - 5th, 2024                             | tba                                                                                 | tba                                              | Berlin, Germany                                                                   |
-
+| Flutter Heroes 2024   | 23rd of February                                 | [Flutter Heroes CfP](https://papers.synesthesia.it/flutter-heroes-2024/cfp)         | 4th of December 2023                             | Turin, Italy & Online                                                             |
 
 
 ## Contributors
