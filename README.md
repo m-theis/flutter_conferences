@@ -10,6 +10,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | Flutter Heroes 2024    | 23rd of February                                 | [Flutter Heroes CfP](https://papers.synesthesia.it/flutter-heroes-2024/cfp)         | 4th of December 2023                             | Turin, Italy & Online                                                             |
 | Flutter & Friends 2024 | tba (around August/September 2024)               | tba                                                                                 | tba                                              | Stockholm, Sweden                                                                 |
 
+
 ## Contributors
 
 <a href="https://github.com/m-theis/flutter_conferences/graphs/contributors">
