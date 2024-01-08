@@ -11,6 +11,8 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [Fluttercon](https://fluttercon.dev/) 2024                     | July 3rd - 5th, 2024               | tba                                                                                                                      | tba                  | Berlin, Germany                     | 1000+            |
 | [Flutter & Friends](https://www.flutterfriends.dev/) 2024      | tba (around August/September 2024) | tba                                                                                                                      | tba                  | Stockholm, Sweden                   | ???              |
 | [Flutter Conf India](https://flutterconf.in/home) 2024       | November, 2024                     | tba                                                                                                                      | tba                  | tba, India                       | 500-1000              |
+| [Road To FlutterConfLatam](https://peru.flutterconflatam.dev) 2024       | February 17, 2024                     | https://forms.gle/wRYhGjMNk9e8rvVo8                                                                                 | Friday, January 12, 2024                  | Arequipa, Perú                       | 500-1000              |
+| [FlutterConf Paraguay] 2024 | January 27, 2024 | https://shorturl.at/zBDM2 | January 5, 2024 | Asunción, Paraguay | 500-1000              |
 
 
 ## Contributors
