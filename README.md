@@ -13,10 +13,8 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [Fluttercon](https://fluttercon.dev/) 2024                        | July 3rd - 5th, 2024                | tba                                                                                                                      | tba                      | Berlin, Germany                     | 1000+            |
 | [Flutter & Friends](https://www.flutterfriends.dev/) 2024         | tba (around August/September 2024)  | tba                                                                                                                      | tba                      | Stockholm, Sweden                   | ???              |
 | [FlutterBytes Conference](https://www.flutterbytesconf.com/) 2024 | tba (around October/November 2024)  | tba                                                                                                                      | tba                      | Lagos, Nigeria                      | 500+             |
+| [FlutterConf Latam](https://flutterconflatam.dev/) 2024           | tba (around October/November 2024)  | tba                                                                                                                      | tba                      | tba, Latin America                  | 300 - 500        |
 | [Flutter Conf India](https://flutterconf.in/home) 2024            | November, 2024                      | tba                                                                                                                      | tba                      | tba, India                          | 500-1000         |
-
-
-
 
 ## Contributors
 
