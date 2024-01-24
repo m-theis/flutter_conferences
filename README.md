@@ -15,6 +15,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [FlutterBytes Conference](https://www.flutterbytesconf.com/) 2024  | tba (around October/November 2024) | tba                                                                                                                      | tba                      | Lagos, Nigeria                      | 500+             |
 | [FlutterConf Latam](https://flutterconflatam.dev/) 2024            | tba (October 2024)                 | tba                                                                                                                      | tba                      | Mexico City, Mexico                 | 300 - 500        |
 | [Flutter Conf India](https://flutterconf.in/home) 2024             | November, 2024                     | tba                                                                                                                      | tba                      | tba, India                          | 500-1000         |
+| [droidcon Italy](https://it.droidcon.com/2024/) 2024             | November, 2024                     | tba                                                                                                                      | tba                      | Milan, Italy                          | 500-1000         |
 
 ## Contributors
 
