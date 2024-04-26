@@ -6,7 +6,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 
 | Name                                                              | Date                               | CfP-Link                                                                          | CfP-Deadline-Date   | Place                   | Aprox. Attendees |
 | ----------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------- | ------------------- | ----------------------- | ---------------- |
-| [Flutter Connection](https://flutterconnection.io/) 2024          | April 24, 2024                     | [Flutter Connection CfP](https://flutterconnection.io/cfp)                        | February 10th, 2024 | Paris, France           | ???              |
+| [Flutter MENA](https://fluttermena.com/) 2024                     | April 26, 2024                     | --                    | --                  | [Online](https://www.youtube.com/live/b4Mwa9W5vPA?si=4whxfqBVJkJcHZoO)  
 | [Full Stack Flutter](https://fullstackflutter.dev) 2024           | May 28, 2024                       | [Full Stack Flutter CfP](https://forms.gle/aYrcS3dJFZxQW3Eu6)                     | April 4th, 2024     | Online                  | 1000+            |
 | [FlutterNinjas](https://flutterninjas.dev/) 2024                  | June 14-15, 2024                   | [FlutterNinjas CfP](https://sessionize.com/flutterninjas-2024/)                   | April 17th, 2024    | Tokyo, Japan            | ???              |
 | [Fluttercon EU](https://fluttercon.dev/) 2024                     | July 3rd - 5th, 2024               | [Fluttercon EU 2024](https://sessionize.com/flutterconeurope-2024/)               | May 1st, 2024       | Berlin, Germany         | 1000+            |
@@ -28,6 +28,8 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [Flutter Heroes](https://flutterheroes.com/) 2024                  | 23rd of February           | [Flutter Heroes CfP](https://papers.synesthesia.it/flutter-heroes-2024/cfp)                                              | 4th of December 2023     | Turin, Italy & Online               | ???              |
 | [Flamecon 6](https://flame-engine.org/flamecon)                    | February 26th, 2024        | --                                                                                                                       | --                       | Online                              | 100 +            |
 | [Flutter Global Summit](https://events.geekle.us/flutter) 2024     | February 27th - 28th, 2024 | [Global Summit CfP](https://docs.google.com/forms/d/e/1FAIpQLScbZEiHXQRRjebkPQM87cisJdkibaD2qd3nRdMiADmP5129Ww/viewform) | ???                      | Online                              | 5000 +           |
+| [Flutter Connection](https://flutterconnection.io/) 2024          | April 24, 2024                     | [Flutter Connection CfP](https://flutterconnection.io/cfp)                        | February 10th, 2024 | Paris, France           | ???              |
+
 
 ## Contributors
 
