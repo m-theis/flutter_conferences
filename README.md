@@ -15,6 +15,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [FlutterBytes Conference][12] 2024 | tba (around October/November 2024) | tba                         | tba               | Lagos, Nigeria          | 500+             |     |          |
 | [FlutterConf Latam][13] 2024       | tba (October 2024)                 | tba                         | tba               | Mexico City, Mexico     | 300 - 500        |     |          |
 | [droidcon London][14] 2024         | 31.10 - 01.11 2024                 | tba                         | tba               | London, UK              | 1000+            |     |          |
+| [Droid+FlutterCon Kenya][29] 2024  | November 6-8th, 2024               | [Droidcon Kenya][28]        | July 31st, 2024   | Nairobi, Kenya          | 500+             |     |          |
 | [Flutter Conf India][15] 2024      | November, 2024                     | tba                         | tba               | tba, India              | 500-1000         |     |          |
 | [droidcon Italy][16] 2024          | November, 2024                     | tba                         | tba               | Milan, Italy            |                  |     | 500-1000 |
 
@@ -63,3 +64,5 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [25]: https://flutterconnection.io/
 [26]: https://flutterconnection.io/cfp
 [27]: https://www.youtube.com/live/b4Mwa9W5vPA?si=4whxfqBVJkJcHZoO
+[28]: https://sessionize.com/droidcon-kenya-2024
+[29]: https://droidcon.co.ke/
