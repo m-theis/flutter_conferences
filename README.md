@@ -11,7 +11,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [FlutterNinjas][5] 2024            | June 14-15, 2024                   | [FlutterNinjas CfP][6]      | April 17th, 2024  | Tokyo, Japan            | ???              |
 | [Fluttercon EU][7] 2024            | July 3rd - 5th, 2024               | [Fluttercon EU 2024][8]     | May 1st, 2024     | Berlin, Germany         | 1000+            |
 | [Flutter & Friends][9] 2024        | September 1st - 3rd, 2024          | [Flutter & Friends CFP][10] | June 1st, 2024    | Stockholm, Sweden       | 250+             |
-| [Fluttercon USA 2024][11]          | September 19th - 20th, 2024        | [Fluttercon USA Cfp][30]    | July 5, 2024      | New York City, New York | 700+             |
+| [Fluttercon USA 2024][11]          | September 19th - 20th, 2024        | [Fluttercon USA Cfp][30]    | July 5th, 2024    | New York City, New York | 700+             |
 | [FlutterBytes Conference][12] 2024 | tba (around October/November 2024) | tba                         | tba               | Lagos, Nigeria          | 500+             |
 | [FlutterConf Latam][13] 2024       | October 29th - 30th, 2024          | tba                         | tba               | Arequipa, Perú          | 300 - 500        |
 | [droidcon London][14] 2024         | 31.10 - 01.11 2024                 | tba                         | tba               | London, UK              | 1000+            |
