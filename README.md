@@ -6,16 +6,14 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 
 | Name                               | Date                               | CfP-Link                    | CfP-Deadline-Date | Place                   | Aprox. Attendees |
 | ---------------------------------- | ---------------------------------- | --------------------------- | ----------------- | ----------------------- | ---------------- |
-| [Flutter MENA][1] 2024             | April 26, 2024                     | --                          | --                | [Online][27]            |                  |
-| [Full Stack Flutter][3] 2024       | May 28, 2024                       | [Full Stack Flutter CfP][4] | April 4th, 2024   | Online                  | 1000+            |
 | [FlutterNinjas][5] 2024            | June 14-15, 2024                   | [FlutterNinjas CfP][6]      | April 17th, 2024  | Tokyo, Japan            | ???              |
 | [Fluttercon EU][7] 2024            | July 3rd - 5th, 2024               | [Fluttercon EU 2024][8]     | May 1st, 2024     | Berlin, Germany         | 1000+            |
 | [Flutter & Friends][9] 2024        | September 1st - 3rd, 2024          | [Flutter & Friends CFP][10] | June 1st, 2024    | Stockholm, Sweden       | 250+             |
 | [Fluttercon USA 2024][11]          | September 19th - 20th, 2024        | tba                         | tba               | New York City, New York | 700+             |
 | [FlutterBytes Conference][12] 2024 | tba (around October/November 2024) | tba                         | tba               | Lagos, Nigeria          | 500+             |
 | [FlutterConf Latam][13] 2024       | October 29th - 30th, 2024          | tba                         | tba               | Arequipa, Perú          | 300 - 500        |
-| [droidcon London][14] 2024         | 31.10 - 01.11 2024                 | tba                         | tba               | London, UK              | 1000+            |
-| [Droid+FlutterCon Kenya][29] 2024  | November 6-8th, 2024               | [Droidcon Kenya][28]        | July 31st, 2024   | Nairobi, Kenya          | 500+             |
+| [droidcon London][14] 2024         | 31.10 - 01.11 2024                 | [droidcon LDN][30]          | August 15th, 2024 | London, UK              | 1000+            |
+| [droid+FlutterCon Kenya][29] 2024  | November 6-8th, 2024               | [droidcon Kenya][28]        | July 31st, 2024   | Nairobi, Kenya          | 500+             |
 | [Flutter Conf India][15] 2024      | November, 2024                     | tba                         | tba               | tba, India              | 500-1000         |
 | [droidcon Italy][16] 2024          | November, 2024                     | tba                         | tba               | Milan, Italy            | 500-1000         |
 
@@ -26,10 +24,13 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [Flutter Vikings][17] 2024          | cancelled                  | tba                                | tba                      | Malmö, Sweden / Copenhagen, Denmark | 500 ?            |
 | FlutterConf Paraguay 2024           | January 27th, 2024         | https://shorturl.at/zBDM2          | January 5, 2024          | Asunción, Paraguay                  | 500-1000         |
 | [Road To FlutterConfLatam][18] 2024 | February 17th, 2024        | [Road To FlutterConfLatam CFP][19] | Friday, January 12, 2024 | Arequipa, Perú                      | 500-1000         |
-| [Flutter Heroes][20] 2024           | 23rd of February           | [Flutter Heroes CfP][21]           | 4th of December 2023     | Turin, Italy & Online               | ???              |
+| [Flutter Heroes][20] 2024           | February 23d, 2024         | [Flutter Heroes CfP][21]           | 4th of December 2023     | Turin, Italy & Online               | ???              |
 | [Flamecon 6][22]                    | February 26th, 2024        | --                                 | --                       | Online                              | 100 +            |
-| [Flutter Global Summit][23] 2024    | February 27th - 28th, 2024 | [Global Summit CfP][24]            | ???                      | Online                              | 5000 +           |
+| [Flutter Global Summit][23] 2024    | February 27-28th, 2024     | [Global Summit CfP][24]            | ???                      | Online                              | 5000 +           |
 | [Flutter Connection][25] 2024       | April 24, 2024             | [Flutter Connection CfP][26]       | February 10th, 2024      | Paris, France                       | ???              |
+| [Flutter MENA][1] 2024              | April 26, 2024             | --                                 | --                       | [Online][27]                        |                  |
+| [Full Stack Flutter][3] 2024        | May 28, 2024               | [Full Stack Flutter CfP][4]        | April 4th, 2024          | Online                              | 1000+            |
+
 
 ## Contributors
 
@@ -66,3 +67,4 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [27]: https://www.youtube.com/live/b4Mwa9W5vPA?si=4whxfqBVJkJcHZoO
 [28]: https://sessionize.com/droidcon-kenya-2024
 [29]: https://droidcon.co.ke/
+[30]: https://sessionize.com/droidcon-london-2024
