@@ -14,6 +14,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [droid+FlutterCon Kenya][29] 2024  | November 6-8th, 2024               | [droidcon Kenya][28]        | July 31st, 2024   | Nairobi, Kenya          | 500+             |
 | [Flutter Conf India][15] 2024      | November, 2024                     | tba                         | tba               | tba, India              | 500-1000         |
 | [droidcon Italy][16] 2024          | November 29th - 30th, 2024         | [droidcon Italy][33]        | tba               | Milan, Italy            | 500-1000         |
+| [Fluttercon EU][34] 2025           | July 2nd - 4th, 2025               | tba                         | tba               | Berlin, Germany         | 1000+            |
 
 ## Past Flutter conferences
 
@@ -71,3 +72,4 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [31]: https://sessionize.com/droidcon-london-2024
 [32]: https://docs.google.com/forms/d/e/1FAIpQLSdRTv56rTr_P1LidHu6xc2GtTcgpVs6pAGiKdRy68wFdicIcg/viewform
 [33]: https://papers.synesthesia.it/droidcon-2024/cfp
+[34]: https://www.droidcon.com/events/fluttercon-europe-2025/
