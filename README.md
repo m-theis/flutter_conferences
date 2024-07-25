@@ -4,17 +4,17 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 
 ## Upcoming Flutter conferences
 
-| Name                               | Date                               | CfP-Link                    | CfP-Deadline-Date | Place                   | Aprox. Attendees |
-| ---------------------------------- | ---------------------------------- | --------------------------- | ----------------- | ----------------------- | ---------------- |
-| [Flutter & Friends][9] 2024        | September 1st - 3rd, 2024          | [Flutter & Friends CFP][10] | June 1st, 2024    | Stockholm, Sweden       | 250+             |
-| [Fluttercon USA 2024][11]          | September 19th - 20th, 2024        | [Fluttercon USA Cfp][30]    | July 12th, 2024   | New York City, New York | 700+             |
-| [FlutterBytes Conference][12] 2024 | tba (around October/November 2024) | tba                         | tba               | Lagos, Nigeria          | 500+             |
-| [FlutterConf Latam][13] 2024       | October 29th - 30th, 2024          | [FlutterConf LATAM][32]     | July 15th, 2024   | Arequipa, Perú          | 300 - 500        |
-| [droidcon London][14] 2024         | 31.10 - 01.11 2024                 | [droidcon LDN][31]          | August 15th, 2024 | London, UK              | 1000+            |
-| [droid+FlutterCon Kenya][29] 2024  | November 6-8th, 2024               | [droidcon Kenya][28]        | July 31st, 2024   | Nairobi, Kenya          | 500+             |
-| [Flutter Conf India][15] 2024      | November, 2024                     | tba                         | tba               | tba, India              | 500-1000         |
-| [droidcon Italy][16] 2024          | November 29th - 30th, 2024         | [droidcon Italy][33]        | tba               | Milan, Italy            | 500-1000         |
-| [Fluttercon EU][34] 2025           | July 2nd - 4th, 2025               | tba                         | tba               | Berlin, Germany         | 1000+            |
+| Name                               | Date                               | CfP-Link                    | CfP-Deadline-Date   | Place                   | Aprox. Attendees |
+| ---------------------------------- | ---------------------------------- | --------------------------- | ------------------- | ----------------------- | ---------------- |
+| [Flutter & Friends][9] 2024        | September 1st - 3rd, 2024          | [Flutter & Friends CFP][10] | June 1st, 2024      | Stockholm, Sweden       | 250+             |
+| [Fluttercon USA 2024][11]          | September 19th - 20th, 2024        | [Fluttercon USA Cfp][30]    | July 12th, 2024     | New York City, New York | 700+             |
+| [FlutterBytes Conference][12] 2024 | tba (around October/November 2024) | tba                         | tba                 | Lagos, Nigeria          | 500+             |
+| [FlutterConf Latam][13] 2024       | October 29th - 30th, 2024          | [FlutterConf LATAM][32]     | July 15th, 2024     | Arequipa, Perú          | 300 - 500        |
+| [droidcon London][14] 2024         | 31.10 - 01.11 2024                 | [droidcon LDN][31]          | August 15th, 2024   | London, UK              | 1000+            |
+| [droid+FlutterCon Kenya][29] 2024  | November 6-8th, 2024               | [droidcon Kenya][28]        | July 31st, 2024     | Nairobi, Kenya          | 500+             |
+| [Flutter Conf India][15] 2024      | November, 2024                     | tba                         | tba                 | tba, India              | 500-1000         |
+| [droidcon Italy][16] 2024          | November 29th - 30th, 2024         | [droidcon Italy][33]        | September 2nd, 2024 | Milan, Italy            | 500-1000         |
+| [Fluttercon EU][34] 2025           | July 2nd - 4th, 2025               | tba                         | tba                 | Berlin, Germany         | 1000+            |
 
 ## Past Flutter conferences
 
