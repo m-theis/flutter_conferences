@@ -16,6 +16,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [droidcon Italy][16] 2024          | November 29th - 30th, 2024         | [droidcon Italy][33]        | September 2nd, 2024 | Milan, Italy            | 500-1000         |
 | [Fluttercon EU][34] 2025           | July 2nd - 4th, 2025               | tba                         | tba                 | Berlin, Germany         | 1000+            |
 
+
 ## Past Flutter conferences
 
 | Name                                | Date                       | CfP-Link                           | CfP-Deadline-Date        | Place                               | Aprox. Attendees |
