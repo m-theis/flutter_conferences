@@ -19,7 +19,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | Name                                | Date                       | CfP-Link                           | CfP-Deadline-Date        | Place                               | Aprox. Attendees |
 | ----------------------------------- | -------------------------- | ---------------------------------- | ------------------------ | ----------------------------------- | ---------------- |
 | [Fluttercon USA 2024][11]           | September 19th - 20th, 2024| [Fluttercon USA Cfp][30]           | July 12th, 2024          | New York City, New York             | 700+             |
-| [Flutter & Friends][9] 2024         | September 1st - 3rd, 2024  | [Flutter & Friends CFP][10]        | June 1st, 2024           | Stockholm, Sweden                   | 250+             |
+| [Flutter & Friends][9] 2024         | September 1st - 3rd, 2024  | [Flutter & Friends CFP][10]        | June 1st, 2024           | Stockholm, Sweden                   | 300+             |
 | [Flutter Vikings][17] 2024          | cancelled                  | tba                                | tba                      | Malmö, Sweden / Copenhagen, Denmark | 500 ?            |
 | FlutterConf Paraguay 2024           | January 27th, 2024         | https://shorturl.at/zBDM2          | January 5, 2024          | Asunción, Paraguay                  | 500-1000         |
 | [Road To FlutterConfLatam][18] 2024 | February 17th, 2024        | [Road To FlutterConfLatam CFP][19] | Friday, January 12, 2024 | Arequipa, Perú                      | 500-1000         |
