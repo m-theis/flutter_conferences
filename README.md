@@ -4,15 +4,16 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 
 ## Upcoming Flutter conferences
 
-| Name                               | Date                               | CfP-Link                    | CfP-Deadline-Date   | Place                   | Aprox. Attendees |
-| ---------------------------------- | ---------------------------------- | --------------------------- | ------------------- | ----------------------- | ---------------- |
-| [FlutterBytes Conference][12] 2024 | November 1-2nd, 2024               | [FlutterBytes CFP][35]      | September 1st, 2024 | Lagos, Nigeria          | 500+             |
-| [FlutterConf Latam][13] 2024       | October 29th - 30th, 2024          | [FlutterConf LATAM][32]     | July 15th, 2024     | Arequipa, Perú          | 300 - 500        |
-| [droidcon London][14] 2024         | Oct 31st - Nov 1st, 2024           | [droidcon LDN][31]          | August 15th, 2024   | London, UK              | 1000+            |
-| [droid+FlutterCon Kenya][29] 2024  | November 6-8th, 2024               | [droidcon Kenya][28]        | July 31st, 2024     | Nairobi, Kenya          | 500+             |
-| [droidcon Italy][16] 2024          | November 29th - 30th, 2024         | [droidcon Italy][33]        | September 2nd, 2024 | Milan, Italy            | 500-1000         |
-| [Fluttercon EU][34] 2025           | September 24th - 26th, 2025        | tba                         | tba                 | Berlin, Germany         | 1000+            |
-| [Flutter Conf India][15] 2025      | tba, 2025                          | tba                         | tba                 | tba, India              | 500-1000         |
+| Name                               | Date                               | CfP-Link                    | CfP-Deadline-Date   | Place                  | Aprox. Attendees |
+| ---------------------------------- | ---------------------------------- | --------------------------- | ------------------- |------------------------|------------------|
+| [FlutterBytes Conference][12] 2024 | November 1-2nd, 2024               | [FlutterBytes CFP][35]      | September 1st, 2024 | Lagos, Nigeria         | 500+             |
+| [FlutterConf Latam][13] 2024       | October 29th - 30th, 2024          | [FlutterConf LATAM][32]     | July 15th, 2024     | Arequipa, Perú         | 300 - 500        |
+| [droidcon London][14] 2024         | Oct 31st - Nov 1st, 2024           | [droidcon LDN][31]          | August 15th, 2024   | London, UK             | 1000+            |
+| [droid+FlutterCon Kenya][29] 2024  | November 6-8th, 2024               | [droidcon Kenya][28]        | July 31st, 2024     | Nairobi, Kenya         | 500+             |
+| [droidcon Italy][16] 2024          | November 29th - 30th, 2024         | [droidcon Italy][33]        | September 2nd, 2024 | Milan, Italy           | 500-1000         |
+| [Fluttercon EU][34] 2025           | September 24th - 26th, 2025        | tba                         | tba                 | Berlin, Germany        | 1000+            |
+| [Flutter Conf India][15] 2025      | tba, 2025                          | tba                         | tba                 | tba, India             | 500-1000         |
+| [App Devcon Amsterdam][36] 2025    | March 18th - 21th, 2025            | [App Devcon Amsterdam][37]  | December 20th, 2024 | Amsterdam, Netherlands | 1000+            | 
 
 ## Past Flutter conferences
 
@@ -74,3 +75,5 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [33]: https://papers.synesthesia.it/droidcon-2024/cfp
 [34]: https://www.droidcon.com/events/fluttercon-europe-2025/
 [35]: https://sessionize.com/flutterbytes-conference-2024
+[36]: https://appdevcon.nl/
+[37]: https://sessionize.com/appdevcon-2025/
