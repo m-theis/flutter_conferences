@@ -7,7 +7,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | Name                               | Date                               | CfP-Link                    | CfP-Deadline-Date   | Place                  | Aprox. Attendees |
 | ---------------------------------- | ---------------------------------- | --------------------------- | ------------------- |------------------------|------------------|
 | [App Devcon Amsterdam][36] 2025    | March 18th - 21th, 2025            | [App Devcon Amsterdam][37]  | December 20th, 2024 | Amsterdam, Netherlands | 1000+            | 
-| [Flutter & Friends][9] 2024        | August 31st - November 2nd, 2025   | tba                         | tba                 | Stockholm, Sweden      | 500+             |
+| [Flutter & Friends][9] 2025        | August 31st - November 2nd, 2025   | tba                         | tba                 | Stockholm, Sweden      | 500+             |
 | [Fluttercon EU][34] 2025           | September 24th - 26th, 2025        | tba                         | tba                 | Berlin, Germany        | 1000+            |
 | [Flutter Conf India][15] 2025      | tba, 2025                          | tba                         | tba                 | tba, India             | 500-1000         |
 
