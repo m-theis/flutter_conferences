@@ -9,6 +9,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | Name                            | Date                             | CfP-Link                   | CfP-Deadline-Date   | Place                  | Aprox. Attendees |
 | ------------------------------- | -------------------------------- | -------------------------- | ------------------- | ---------------------- | ---------------- |
 | [App Devcon Amsterdam][36] 2025 | March 18th - 21th, 2025          | [App Devcon Amsterdam][37] | December 20th, 2024 | Amsterdam, Netherlands | 1000+            |
+| [Code Motion][41] 2025          | April 14th, 2025                 | [Code Motion Rome][42]     | January 23rd, 2025  | Rome, Italy            | ???              |
 | [FlutterNinjas][5] 2024         | May 29th - 30th, 2025            | [FlutterNinjas CfP][40]    | March 2nd, 2025     | Tokyo, Japan           | ???              |
 | [Flutter & Friends][9] 2025     | August 31st - November 2nd, 2025 | tba                        | tba                 | Stockholm, Sweden      | 500+             |
 | [Fluttercon EU][34] 2025        | September 24th - 26th, 2025      | tba                        | tba                 | Berlin, Germany        | 1000+            |
@@ -86,3 +87,5 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [38]: https://gdg.community.dev/events/details/google-gdg-encarnacion-presents-flutterconf-paraguay-2024/
 [39]: https://shorturl.at/zBDM2
 [40]: https://sessionize.com/flutterninjas-2025/
+[41]: https://conferences.codemotion.com/rome2025/
+[42]: https://sessionize.com/codemotion-rome-2025/
