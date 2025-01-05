@@ -9,6 +9,8 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | Name                            | Date                             | CfP-Link                   | CfP-Deadline-Date   | Place                  | Aprox. Attendees |
 | ------------------------------- | -------------------------------- | -------------------------- | ------------------- | ---------------------- | ---------------- |
 | [App Devcon Amsterdam][36] 2025 | March 18th - 21th, 2025          | [App Devcon Amsterdam][37] | December 20th, 2024 | Amsterdam, Netherlands | 1000+            |
+| [Flutter Heroes][46] 2025       | March 12th, 2025                 | [Sessionize][47]           | January 5th, 2024   | Turin, Italy           | ???              |
+| [Flutter Connection][45] 2025   | April 4th, 2025                  | [Sessionize][44]           | January 19th, 2024  | Paris, France          | ???              |
 | [Code Motion][41] 2025          | April 14th, 2025                 | [Code Motion Rome][42]     | January 23rd, 2025  | Rome, Italy            | ???              |
 | [FlutterNinjas][5] 2024         | May 29th - 30th, 2025            | [FlutterNinjas CfP][40]    | March 2nd, 2025     | Tokyo, Japan           | ???              |
 | [Flutter & Friends][9] 2025     | August 31st - November 2nd, 2025 | tba                        | tba                 | Stockholm, Sweden      | 500+             |
@@ -90,3 +92,8 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [41]: https://conferences.codemotion.com/rome2025/
 [42]: https://sessionize.com/codemotion-rome-2025/
 [43]: https://sessionize.com/fluttercon-europe-2025/
+[44]: https://sessionize.com/flutter-connection-2025
+[45]: https://flutterconnection.io/
+[46]: https://flutterheroes.com/2025/
+[47]: https://papers.synesthesia.it/fh-2025/cfp
+
