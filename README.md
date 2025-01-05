@@ -12,7 +12,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [Code Motion][41] 2025          | April 14th, 2025                 | [Code Motion Rome][42]     | January 23rd, 2025  | Rome, Italy            | ???              |
 | [FlutterNinjas][5] 2024         | May 29th - 30th, 2025            | [FlutterNinjas CfP][40]    | March 2nd, 2025     | Tokyo, Japan           | ???              |
 | [Flutter & Friends][9] 2025     | August 31st - November 2nd, 2025 | tba                        | tba                 | Stockholm, Sweden      | 500+             |
-| [Fluttercon EU][34] 2025        | September 24th - 26th, 2025      | tba                        | tba                 | Berlin, Germany        | 1000+            |
+| [Fluttercon Europe][34] 2025    | September 24th - 26th, 2025      | [Fluttercon CFP][43]       | July 1st, 2025      | Berlin, Germany        | 1000+            |
 | [Flutter Conf India][15] 2025   | tba, 2025                        | tba                        | tba                 | tba, India             | 500-1000         |
 | [Fluttercon Kenya][29] 2025     | November 5th - 7th, 2025         | tba                        | tba                 | Nairobi, Kenya         | 500+             |
 
@@ -89,3 +89,4 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [40]: https://sessionize.com/flutterninjas-2025/
 [41]: https://conferences.codemotion.com/rome2025/
 [42]: https://sessionize.com/codemotion-rome-2025/
+[43]: https://sessionize.com/fluttercon-europe-2025/
