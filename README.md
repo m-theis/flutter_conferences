@@ -12,7 +12,8 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [Flutter Heroes][46] 2025       | March 12th, 2025                 | [Sessionize][47]           | January 5th, 2024   | Turin, Italy           | ???              |
 | [Flutter Connection][45] 2025   | April 4th, 2025                  | [Sessionize][44]           | January 19th, 2024  | Paris, France          | ???              |
 | [Code Motion][41] 2025          | April 14th, 2025                 | [Code Motion Rome][42]     | January 23rd, 2025  | Rome, Italy            | ???              |
-| [FlutterNinjas][5] 2024         | May 29th - 30th, 2025            | [FlutterNinjas CfP][40]    | March 2nd, 2025     | Tokyo, Japan           | ???              |
+| [FlutterNinjas][5] 2025         | May 29th - 30th, 2025            | [FlutterNinjas CfP][40]    | March 2nd, 2025     | Tokyo, Japan           | ???              |
+| [Fluttercon USA][48] 2025       | June 25th - 26th, 2025           | tba                        | March 2nd, 2025     | NYC, USA               | 500+             |
 | [Flutter & Friends][9] 2025     | August 31st - September 2nd, 2025| tba                        | tba                 | Stockholm, Sweden      | 500+             |
 | [Fluttercon Europe][34] 2025    | September 24th - 26th, 2025      | [Fluttercon CFP][43]       | July 1st, 2025      | Berlin, Germany        | 1000+            |
 | [Flutter Conf India][15] 2025   | tba, 2025                        | tba                        | tba                 | tba, India             | 500-1000         |
@@ -96,4 +97,5 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [45]: https://flutterconnection.io/
 [46]: https://flutterheroes.com/2025/
 [47]: https://papers.synesthesia.it/fh-2025/cfp
+[48]: https://flutterconusa.dev/
 
