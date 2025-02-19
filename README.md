@@ -99,5 +99,5 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [47]: https://papers.synesthesia.it/fh-2025/cfp
 [48]: https://flutterconusa.dev/
 [49]: https://sessionize.com/fluttercon-usa-2025/
-[50]: https://airtable.com/appnt9GgdfcnH4XjT/pagdanm13HR3z3f1k/form
+[50]: https://cfp.flutterfriends.dev/
 
