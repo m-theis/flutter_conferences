@@ -9,7 +9,6 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | Name                            | Date                             | CfP-Link                   | CfP-Deadline-Date   | Place                  | Aprox. Attendees |
 | ------------------------------- | -------------------------------- | -------------------------- | ------------------- | ---------------------- | ---------------- |
 | [App Devcon Amsterdam][36] 2025 | March 18th - 21th, 2025          | [App Devcon Amsterdam][37] | December 20th, 2024 | Amsterdam, Netherlands | 1000+            |
-| [Flutter Heroes][46] 2025       | March 12th, 2025                 | [Sessionize][47]           | January 5th, 2024   | Turin, Italy           | ???              |
 | [Flutter Connection][45] 2025   | April 4th, 2025                  | [Sessionize][44]           | January 19th, 2024  | Paris, France          | ???              |
 | [Code Motion][41] 2025          | April 14th, 2025                 | [Code Motion Rome][42]     | January 23rd, 2025  | Rome, Italy            | ???              |
 | [FlutterNinjas][5] 2025         | May 29th - 30th, 2025            | [FlutterNinjas CfP][40]    | March 2nd, 2025     | Tokyo, Japan           | ???              |
@@ -43,6 +42,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [FlutterBytes Conference][12] 2024  | November 1-2nd, 2024        | [FlutterBytes CFP][35]             | September 1st, 2024      | Lagos, Nigeria                      | 500+             |
 | [droid+FlutterCon Kenya][29] 2024   | November 6-8th, 2024        | [droidcon Kenya][28]               | July 31st, 2024          | Nairobi, Kenya                      | 500+             |
 | [droidcon Italy][16] 2024           | November 29th - 30th, 2024  | [droidcon Italy][33]               | September 2nd, 2024      | Milan, Italy                        | 500-1000         |
+| [Flutter Heroes][46] 2025           | March 12th, 2025            | [Sessionize][47]                   | January 5th, 2024        | Turin, Italy                        | ???              |
 
 ## Contributors
 
@@ -78,7 +78,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [26]: https://flutterconnection.io/cfp
 [27]: https://www.youtube.com/live/b4Mwa9W5vPA?si=4whxfqBVJkJcHZoO
 [28]: https://sessionize.com/droidcon-kenya-2024
-[29]: https://flutterconke.dev/
+[29]: https://x.com/flutterconke?lang=en
 [30]: https://sessionize.com/fluttercon-usa-2024/
 [31]: https://sessionize.com/droidcon-london-2024
 [32]: https://docs.google.com/forms/d/e/1FAIpQLSdRTv56rTr_P1LidHu6xc2GtTcgpVs6pAGiKdRy68wFdicIcg/viewform
