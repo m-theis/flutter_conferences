@@ -8,15 +8,13 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 
 | Name                            | Date                             | CfP-Link                   | CfP-Deadline-Date   | Place                  | Aprox. Attendees |
 | ------------------------------- | -------------------------------- | -------------------------- | ------------------- | ---------------------- | ---------------- |
-| [App Devcon Amsterdam][36] 2025 | March 18th - 21th, 2025          | [App Devcon Amsterdam][37] | December 20th, 2024 | Amsterdam, Netherlands | 1000+            |
-| [Flutter Connection][45] 2025   | April 4th, 2025                  | [Sessionize][44]           | January 19th, 2024  | Paris, France          | ???              |
 | [Code Motion][41] 2025          | April 14th, 2025                 | [Code Motion Rome][42]     | January 23rd, 2025  | Rome, Italy            | ???              |
 | [FlutterNinjas][5] 2025         | May 29th - 30th, 2025            | [FlutterNinjas CfP][40]    | March 2nd, 2025     | Tokyo, Japan           | ???              |
 | [Fluttercon USA][48] 2025       | June 25th - 26th, 2025           | [Sessionize][49]           | April 27th, 2025    | NYC, USA               | 500+             |
 | [Flutter & Friends][9] 2025     | August 31st - September 2nd, 2025| [Flutter and Friends][50]  | June 1st, 2025      | Stockholm, Sweden      | 500+             |
 | [Fluttercon Europe][34] 2025    | September 24th - 26th, 2025      | [Fluttercon CFP][43]       | July 1st, 2025      | Berlin, Germany        | 1000+            |
 | [Flutter Conf India][15] 2025   | tba, 2025                        | tba                        | tba                 | tba, India             | 500-1000         |
-| [Fluttercon Kenya][29] 2025     | November 5th - 7th, 2025         | tba                        | tba                 | Nairobi, Kenya         | 500+             |
+| [Fluttercon Kenya][29] 2025     | November 5th - 7th, 2025         | [Sessionize][51]           | August 3d, 2025     | Nairobi, Kenya         | 500+             |
 
 ## Past Flutter conferences
 
@@ -43,6 +41,8 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [droid+FlutterCon Kenya][29] 2024   | November 6-8th, 2024        | [droidcon Kenya][28]               | July 31st, 2024          | Nairobi, Kenya                      | 500+             |
 | [droidcon Italy][16] 2024           | November 29th - 30th, 2024  | [droidcon Italy][33]               | September 2nd, 2024      | Milan, Italy                        | 500-1000         |
 | [Flutter Heroes][46] 2025           | March 12th, 2025            | [Sessionize][47]                   | January 5th, 2024        | Turin, Italy                        | ???              |
+| [App Devcon Amsterdam][36] 2025     | March 18th - 21th, 2025     | [App Devcon Amsterdam][37]         | December 20th, 2024      | Amsterdam, Netherlands              | 1000+            |
+| [Flutter Connection][45] 2025       | April 4th, 2025             | [Sessionize][44]                   | January 19th, 2024       | Paris, France                       | 150+             |
 
 ## Contributors
 
@@ -100,4 +100,5 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [48]: https://flutterconusa.dev/
 [49]: https://sessionize.com/fluttercon-usa-2025/
 [50]: https://cfp.flutterfriends.dev/
+[51]: https://sessionize.com/droidcon-fluttercon-kenya-2025
 
