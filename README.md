@@ -107,4 +107,3 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [53]: https://sessionize.com/fluttercon-india-2025/
 [54]: https://2025.flutterkaigi.jp/
 
-
