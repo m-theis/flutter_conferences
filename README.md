@@ -14,6 +14,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [Fluttercon Europe][34] 2025    | September 24th - 26th, 2025      | [Fluttercon CFP][43]       | July 1st, 2025      | Berlin, Germany        | 1000+            |
 | [Flutter Conf India][15] 2025   | tba, 2025                        | tba                        | tba                 | tba, India             | 500-1000         |
 | [Fluttercon Kenya][29] 2025     | November 5th - 7th, 2025         | [Sessionize][51]           | August 3d, 2025     | Nairobi, Kenya         | 500+             |
+| [FlutterKaigi][54] 2025         | November 13th, 2025              | TBA                        | TBA                 | Tokyo Japan            | 500+             |
 | [Fluttercon India][52] 2025     | December 14th, 2025              | [Sessionize][53]           | Oct 1st, 2025       | Bengaluru, India       | ???+             |
 
 ## Past Flutter conferences
@@ -104,4 +105,6 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [51]: https://sessionize.com/droidcon-fluttercon-kenya-2025
 [52]: https://india.fluttercon.dev/
 [53]: https://sessionize.com/fluttercon-india-2025/
+[54]: https://2025.flutterkaigi.jp/
+
 
