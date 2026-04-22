@@ -12,9 +12,9 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [FlutterConf Spain][62]                 | May 8-9, 2026        | [FlutterConf Spain][63]      | ???               | Malaga, Spain          | ???              |
 | [mDevCamp 2026][60]                     | June 3-4, 2026       | [mDevCamp][61]               | November 30, 2025 | Prague, Czech Republic | 700              |
 | [fluttercon & next.app USA 2026][11]    | July 16-17, 2026     | [CFP][57]                    | April 30, 2026    | Orlando, USA           | 500-1000         |
-| [Flutter & Friends][9] 2026             | September 3-5, 2026  | [flutterfriends.dev/cfp][64] | June 1, 2026      | Stockholm, Sweden      | 500+             |
+| [Flutter & Friends][9] 2026             | September 3-5, 2026  | [flutterfriends.dev/cfp][65] | June 1, 2026      | Stockholm, Sweden      | 500+             |
 | [FlutterConf Latam 2026][13]            | September 22-23,2026 | ???                          | ???               | Cancun, Mexico         | ???              |
-| [fluttercon & next.app Europe 2026][58] | October 7-9, 2026    | ???                          | ???               | Berlin, Germany        | 1000+            |
+| [fluttercon & next.app Europe 2026][58] | October 7-9, 2026    | [CFP][64]                    | July 01, 2026     | Berlin, Germany        | 1000+            |
 
 ## Past Flutter conferences
 
@@ -122,4 +122,5 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [61]: https://docs.google.com/forms/d/e/1FAIpQLScTA4u1rd2moKsMF9Uclx7NruudYDvpbmB9AIt4WYV6mQNMTQ/viewform
 [62]: https://flutterconf.es/
 [63]: https://docs.google.com/forms/d/e/1FAIpQLSfxBFH1rIGd9DLrdDGM7UFxhTFqL3PjqTNtjuD_3NuoS4yYNw/viewform?usp=send_form
-[64]: https://flutterfriends.dev/cfp
+[64]: https://sessionize.com/nextapp26/
+[65]: https://flutterfriends.dev/cfp
