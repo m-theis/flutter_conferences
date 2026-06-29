@@ -11,6 +11,7 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 | [Flutter & Friends][9] 2026             | September 3-5, 2026  | [flutterfriends.dev/cfp][65] | June 1, 2026      | Stockholm, Sweden | 500+             |
 | [FlutterConf Latam 2026][13]            | September 22-23,2026 | [CFP][66]                    | ???               | Cancun, Mexico    | ???              |
 | [fluttercon & next.app Europe 2026][58] | October 7-9, 2026    | [CFP][64]                    | July 01, 2026     | Berlin, Germany   | 1000+            |
+| [Full Stack Flutter][3]                 | October 21-22, 2026  | [CFP][70]                    | August 16, 2026   | Online            | 10000+           |
 | [Droidcon Kenia][67]                    | November 5-6, 2026   | [CFP][68]                    | July 31, 2026     | Nairobi, Kenya    | ???              |
 | [Fluttercon India][52]                  | November 21, 2026    | [CFP][69]                    | August 16, 2026   | Bengaluru, India  | ???+             |
 
@@ -130,3 +131,4 @@ If you want to add a conference, feel encouraged to create a PR which adds the c
 [67]: https://droidcon.co.ke/
 [68]: https://sessionize.com/droidcon-fluttercon-kenya-2026/
 [69]: https://sessionize.com/fluttercon-india-2026/
+[70]: https://fullstackflutter.dev/app
